@@ -40,3 +40,7 @@ Change location: Modify $Location and $Province variables
 Enable alternative searches: Uncomment the section at the bottom
 Disable sites: Set Enabled = $false for any site
 Change job titles: Modify $JobTitle or add to $AlternativeSearchTerms
+
+### Screenshot
+
+![screenshot](scriptResult.png)
